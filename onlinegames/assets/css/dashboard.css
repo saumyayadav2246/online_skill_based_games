@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "bootstrap-icons";
+    src: url("../fonts/bootstrap-icons.woff2") format("woff2"),
+         url("../fonts/bootstrap-icons.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+/* Dashboard Responsive Styles */
+@media (max-width: 991.98px) {
+    main { padding-top: 1rem !important; }
+}
+
+.nav-pills .nav-link.active {
+    background: linear-gradient(135deg, #1d4ed8, #3b82f6);
+    color: white !important;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+}
+
+.nav-pills .nav-link {
+    border-radius: 12px;
+    margin-bottom: 8px;
+    transition: all 0.3s ease;
+    color: #495057;
+    font-weight: 500;
+}
+
+.nav-pills .nav-link:hover {
+    background: rgba(59, 130, 246, 0.1);
+    transform: translateX(8px);
+    color: #1d4ed8 !important;
+}
+
+.offcanvas {
+    background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+}
+
+.profile-img img {
+    border: 5px solid #fff;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+}
+
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+}
