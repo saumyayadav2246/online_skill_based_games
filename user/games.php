@@ -252,6 +252,106 @@ transform:translateY(-5px);
 
     </div>
 
+    <h2 class="mb-4">💻 Programming Skill Games</h2>
+
+<div class="row g-4 align-items-stretch mb-5">
+
+    <!-- Game 10 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>⚡ Code Collector</h4>
+                <p class="flex-grow-1">
+                    Collect valid programming concepts and avoid syntax errors. Build combos and increase your level.
+                </p>
+                <a href="games/game10-code-collector.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Game 11 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>🎯 Bug Hunter</h4>
+                <p class="flex-grow-1">
+                    Identify real programming errors and eliminate them before time runs out. Fast reflex + logic!
+                </p>
+                <a href="games/game11-bug-hunter.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Game 12 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>🧠 Function Builder</h4>
+                <p class="flex-grow-1">
+                    Build correct function syntax step-by-step. Test your programming logic and sequence skills.
+                </p>
+                <a href="games/game12-function-builder.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+<h2 class="mb-4">⚡ Speed & Reaction Games</h2>
+
+<div class="row g-4 align-items-stretch mb-5">
+
+    <!-- Game 13 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>⚡ Code Tap Rush</h4>
+                <p class="flex-grow-1">
+                    Tap the correct programming terms as they fall. Test your speed and reaction under pressure!
+                </p>
+                <a href="games/game13-code-tap.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Game 14 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>⚡ Quick Fix Sprint</h4>
+                <p class="flex-grow-1">
+                    Identify the correct fix instantly using keyboard inputs. Speed and accuracy matter!
+                </p>
+                <a href="games/game14-quick-fix.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Game 15 -->
+    <div class="col-md-4 d-flex">
+        <div class="card game-card shadow h-100 w-100">
+            <div class="card-body d-flex flex-column">
+                <h4>🧠 Memory Flash Code</h4>
+                <p class="flex-grow-1">
+                    Memorize the code quickly and recreate it. Improve your memory and coding recall speed.
+                </p>
+                <a href="games/game15-memory-code.php" class="btn btn-light mt-auto">
+                    Start Game
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
     <h2 class="mb-4">🗣️ Language & Communication Games</h2>
 
     <div class="row g-4 align-items-stretch mb-5">
@@ -298,6 +398,8 @@ transform:translateY(-5px);
 
     <div class="row g-4 align-items-stretch">
 
+        
+
         <div class="col-md-4 d-flex">
             <div class="card game-card shadow h-100 w-100">
                 <div class="card-body d-flex flex-column">
@@ -329,6 +431,8 @@ transform:translateY(-5px);
         </div>
 
     </div>
+
+    
 </div>
 
 </div>
